@@ -1,0 +1,26 @@
+.heading{
+    width:100%;
+    font-size: 30px;
+
+}
+.name_of_objects{
+    font-size: 20px;
+    color: rgb(0, 102, 255);
+}
+#camera,#results{
+    border-color: rgb(0, 213, 255);
+    border-style: double;
+    width: 5px;
+    height: 50px;
+}
+#result_obj_name{
+    color:aliceblue;
+    font-size: 20px;
+}
+#result_obj_accuracy{
+    color:aliceblue;
+    font-size: 20px;
+}
+p{
+color: rgb(37, 171, 255);
+}
